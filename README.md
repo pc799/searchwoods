@@ -1,8 +1,6 @@
----
-
 # SearchWoods
 
-Minimal movie search engine built using Svelte.
+Minimal movie search engine built using [Svelte](https://svelte.dev/).
 
 ## Deploy locally
 
@@ -24,6 +22,4 @@ Navigate to [localhost:5000](http://localhost:5000). You should see the app runn
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
 
-## Deployed here [SearchwoodS](https://searchwoods.now.sh/)
-
-### With [Vercel](https://vercel.com/)
+### Live version: [SearchwoodS](https://searchwoods.now.sh/)
