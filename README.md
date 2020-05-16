@@ -24,4 +24,4 @@ Navigate to [localhost:5000](http://localhost:5000). You should see the app runn
 
 ### Live version: [searchwoods.now.sh](https://searchwoods.now.sh/)
 
-Data provide by [NYT](https://developer.nytimes.com/), [OMDb](https://www.omdbapi.com/), [TMDb](https://www.themoviedb.org/), [IMDb](https://www.imdb.com/).
+Data provided by [NYT](https://developer.nytimes.com/), [OMDb](https://www.omdbapi.com/), [TMDb](https://www.themoviedb.org/), [IMDb](https://www.imdb.com/).
